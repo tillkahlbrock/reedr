@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "dev-master",
+        "phpunit/phpunit": "3.7.*@dev",
+        "doctrine/orm": "*"
+    },
+    "autoload": {
+        "psr-0": { "Reedr": "src/" }
+    }
+}
